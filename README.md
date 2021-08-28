@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sarfarazahammed
+- 👀 I’m interested in Full stack development with React as frontend and spring boot as backend
+- 🌱 I’m currently learning Blockchain development
+- 💞️ I’m looking to collaborate on Blockchain development for various projects
+- 📫 Reach me @ syedsarfarazahammed@outlook.com
