@@ -10,7 +10,7 @@
 - :nerd_face: Always `learning new things`
 - 💞️ I’m looking to collaborate on DevOps for various projects
 - 📫 Reach me @ syedsarfarazahammed@outlook.com
-- <!-- - :thinking: Here is [MY RESUME](). -->
+<!-- -  - :thinking: Here is [MY RESUME](). -->
 
 <br>
 
