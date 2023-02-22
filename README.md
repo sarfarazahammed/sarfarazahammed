@@ -5,8 +5,8 @@
 
 ## :sassy_man:  About me
 - :technologist: I am a backend engineer at Gainsight
-- :computer: I’m interested in DevOps and backend development with Spring Boot.
-- :student: I’m currently learning: `DevOps`.
+- :computer: I’m interested in Data Engineering DevOps and backend development with Spring Boot.
+- :student: I’m currently learning: `Python & Data Engineering`.
 - :nerd_face: Always `learning new things`
 - 💞️ I’m looking to collaborate on DevOps for various projects
 - 📫 Reach me @ syedsarfarazahammed@outlook.com
