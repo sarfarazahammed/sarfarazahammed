@@ -4,11 +4,11 @@
 </p>
 
 ## :sassy_man:  About me
-- :technologist: I am a backend engineer at Gainsight
+- :technologist: I am a backend engineer at New Relic
 - :computer: I’m interested in Data Engineering DevOps and backend development with Spring Boot.
-- :student: I’m currently learning: `Python & Data Engineering`.
+- :student: I’m currently learning: `AI & Distributed Systems`.
 - :nerd_face: Always `learning new things`
-- 💞️ I’m currently looking to collaborate on Data Engineering for various projects
+- 💞️ I’m currently looking to collaborate on AI & Data Engineering for various projects
 - 📫 Reach me @ syedsarfarazahammed@outlook.com
 <!-- -  - :thinking: Here is [MY RESUME](). -->
 
